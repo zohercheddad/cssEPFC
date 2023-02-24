@@ -1,0 +1,25 @@
+
+ h2{color:teal;text-decoration: underline;background-color:silver;}
+
+ h3{color:teal;text-decoration: underline;background-color: silver;
+font-family: sans-serif;}
+
+h1{
+   color:white;
+   width: 75%;/*75% taille de la page*/ 
+   height: 80%;
+   font-size: xx-large;
+   background-color: teal;
+   border-radius: 13px;
+   border-style:double;
+   padding:3px;
+   margin-left: auto;
+   margin-right:auto;
+   text-align: center;
+   border-color: blue;
+   font-variant:small-caps;
+   
+
+}
+
+ #banner{background-color: silver}
